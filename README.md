@@ -1,7 +1,7 @@
 # Water-flow-Path-Generator
 
 This project aims to generate a path representing the maximum water flow on a terrain defined by an STL file.
-
+This project implemented in C++ using Qt and OpenGL for rendering.
 ## File Structure
 -**pathGenerator.cpp**: This file contains the implementation of the waterflow path functionality. It likely includes algorithms for simulating water flow and determining the path of maximum flow.
 
